@@ -1,4 +1,4 @@
-# GeekGoose Blog
+# ![GeekGoose Logo](/public/storage/logo/logo.png)
 
 **GeekGoose** is a personal blog dedicated to sharing insights, tutorials, and thoughts on software technologies. Whether you're a seasoned developer or just starting out, you'll find a variety of content designed to inspire, educate, and engage.
 
@@ -6,6 +6,7 @@
 
 - [Purpose](#purpose)
 - [Technologies Used](#technologies-used)
+- [Topics Covered](#topics-covered)
 - [Features](#features)
 - [Contact](#contact)
 
@@ -21,6 +22,16 @@ This blog is built using the following technologies:
 - **Livewire**: A front-end framework that enhances the interactivity and responsiveness of the site.
 - **Jetstream**: A starter kit that provides scaffolding for user authentication and other core features.
 - **Filament**: Used for the admin panel and comments management, making site administration intuitive and efficient.
+
+## Topics Covered
+
+On GeekGoose, you can expect to find posts on a variety of topics, including:
+
+- **Software Development**: Tips, tricks, and tutorials on various programming languages and development practices.
+- **Web Technologies**: Insights on the latest trends in web development, including frameworks, tools, and best practices.
+- **Coding Challenges**: Solutions and explanations for common coding problems and algorithm challenges.
+- **Tech Reviews**: Reviews of tools, libraries, and platforms that can help improve your development workflow.
+- **Personal Experiences**: Stories and lessons learned from my own journey as a software developer.
 
 ## Features
 
