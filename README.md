@@ -2,6 +2,13 @@
 
 **GeekGoose** is a personal blog dedicated to sharing insights, tutorials, and thoughts on software technologies. Whether you're a seasoned developer or just starting out, you'll find a variety of content designed to inspire, educate, and engage.
 
+## Table of Contents
+
+- [Purpose](#purpose)
+- [Technologies Used](#technologies-used)
+- [Features](#features)
+- [Contact](#contact)
+
 ## Purpose
 
 The primary goal of **GeekGoose** is to allow readers to follow my personal journey in the world of software development and technology. Through this blog, I aim to provide valuable resources and perspectives that can help others in their own learning and development.
